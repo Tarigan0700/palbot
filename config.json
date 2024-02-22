@@ -1,0 +1,12 @@
+{
+  "token": "Your Token",
+  "host": "Your internal IP",
+  "port": Palworld Server Port,
+  "rcon_port": Palworld Rcon Port,
+  "rcon_password": "Palworld Rcon Password",
+  "owner_id": "Your/Owner Discord ID",
+  "rcon_role": "Discord Role for use of admin rcon commands",
+  "whitelist_role": "White List Role",
+  "whitelist_enabled": false,
+  "whitelist_time": 0.5
+}
